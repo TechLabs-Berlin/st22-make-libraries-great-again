@@ -1,0 +1,79 @@
+body {
+	background: #fff;
+}
+
+.container-fluid {
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+
+.main-header{
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 39px;
+}
+
+ /* carousel image  */
+.img-carousel{
+	width: 584px;
+	height: 363px;
+}
+
+ /* carousel items  */
+.carousel-control-prev{
+
+	background: #E4DFDF;
+	border: 0.5px solid #000000;
+	border-radius: 50%;
+	height: 40px;
+	width: 40px;
+	margin: auto;
+	margin-left: 3px;
+}
+
+.carousel-control-next{
+
+	background: #E4DFDF;
+	border: 0.5px solid #000000;
+	border-radius: 50%;
+	height: 40px;
+	width: 40px;
+	margin: auto;
+	margin-right: 3px;
+}
+
+ /* images   */
+.img-category{
+	width: 274px;
+	height: 225px;
+	margin: 10px 10px;
+	background: rgba(228, 223, 223, 0.6);
+	border: 1px solid #000000;
+	border-radius: 8px;
+	margin-top: 10px;
+}
+
+
+.header-category{
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 10px;
+}
+
+.button-seemore{
+	display: inline-block;
+	background: #D9D9D9;
+	border: 1px solid #000000;
+	padding: 8px 16px;
+	text-align: center;
+	width: fit-content;
+	margin: auto;
+}
+
+.picks-text{
+	font-weight: 400;
+	font-size: 14px;	
+	line-height: 17px;
+}
