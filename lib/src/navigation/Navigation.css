@@ -1,13 +1,14 @@
-.navigation{
+.all-nav{
 	font-weight: 500;
 	line-height: 29px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+	background-color: #FFBBBB;
 }
 
-.navigation li{
+.all-nav li{
 	padding-left:30px;
   	padding-right:30px;
   	margin-left:50px;
@@ -17,12 +18,9 @@
 	background-color: #fff;
 }
 
-.navigation li a{
+.all-nav li a{
 	color: #000;
 	cursor: pointer;
 }
 
-.all-nav{
-	background-color: #FFBBBB;
-	padding: 20px;
-}
+

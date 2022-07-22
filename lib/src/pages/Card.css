@@ -7,6 +7,8 @@
 .card img{
 	width: 171px;
 	height: 255px;
+	cursor: pointer;
+
 }
 
 .card-h2 h2{
