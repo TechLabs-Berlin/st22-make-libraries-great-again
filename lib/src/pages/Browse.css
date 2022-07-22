@@ -1,0 +1,9 @@
+.rounded {
+	width: "274px";
+	height: "225px";
+	transition: transform .2s;
+}
+
+.rounded:hover{
+	transform: scale(1.5);
+}
