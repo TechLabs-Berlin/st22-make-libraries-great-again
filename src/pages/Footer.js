@@ -15,8 +15,7 @@ const iStyle = {
  	background: "#fff",
 	padding: "10px",
 	margin: "10px",
-	display: "inline-block",
-	float: "right",
+	text: "center",
 };
 
 const Footer = () => {
@@ -25,7 +24,6 @@ const Footer = () => {
 			<div className="col-6">
 				<button style={btnStyle}>FQA</button>
 				<button style={btnStyle}>Help</button>
-				<button style={btnStyle}>Library Opening Times</button>
 			</div>
 			<div className="col-6">
 			 	<i className="bi bi-youtube" style={iStyle}></i>

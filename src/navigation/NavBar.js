@@ -2,6 +2,7 @@ import React from "react";
 import "./Navigation.css";
 
 
+
 const NavBar = () => {
 	return(
 <nav className="navbar navbar-expand-lg">
@@ -12,7 +13,7 @@ const NavBar = () => {
 			</button>
 		</div>
 			<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-      		<span className="navbar-toggler-icon" ></span>
+      		<i className="bi bi-list"></i>
     </button>
 
     	<div className="collapse navbar-collapse" id="navbarTogglerDemo02">
