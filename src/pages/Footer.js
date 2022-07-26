@@ -1,5 +1,4 @@
 import React from "react";
-import context from "react-bootstrap/esm/AccordionContext";
 import "./Footer.css"
 
 const btnStyle = {
